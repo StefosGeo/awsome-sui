@@ -1,4 +1,4 @@
-# Awosome Sui
+# Awosome Sui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ##### A curated list of Sui projects.
 
