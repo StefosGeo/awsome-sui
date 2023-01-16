@@ -1,3 +1,3 @@
 ### Awosome Sui
 
-#A curated list of Sui projects.
+# A curated list of Sui projects.
